@@ -1,0 +1,6 @@
+{
+  "domain": "dev-c9-6vnys.us.auth0.com",
+  "client_id": "sxQMBPHDFOI8Wg5rdoWWqBGLAvyoQOf2",
+  "responseType": "token id_token",
+  "audience": "https://dev-c9-6vnys.us.auth0.com/api/v2/"
+}
